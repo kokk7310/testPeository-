@@ -1,0 +1,6 @@
+echo "# testPeository-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/kokk7310/testPeository-.git
+git push -u origin master
